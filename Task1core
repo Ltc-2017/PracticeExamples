@@ -1,0 +1,13 @@
+class Rhinoceros
+{
+String c = "corn";
+void run()
+{
+System.out.println("He runs fast");
+}
+}
+class Unicorn extends Rhinoceros
+{
+public void run()
+{}
+}
